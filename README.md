@@ -6,6 +6,6 @@
 Subir a gradescope los siguientes archivos:
 - `sp4.h` y `sp4.cpp`
 
-## Question #2 to #13 - Complejidad Algorítmica (15 points)
+## Question #2 to #13 - Complejidad Algorítmica (20 points)
 
 Determinar la complejidad algorítmica de cada función.
